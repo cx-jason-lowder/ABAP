@@ -1,4 +1,4 @@
-@AccessControl.authorizationCheck: #NOT_ALLOWED
+@AccessControl.authorizationCheck: #CHECKED
 @EndUserText.label: 'CDS view entity, calculated quantity'
 
 define view entity Z_DEMO_CALCULATED_QUANTITY
